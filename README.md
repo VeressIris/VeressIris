@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**VeressIris/VeressIris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hello there, I'm Iris 👋
+### 👩‍💻About me:
+- I'm a highschool student
+- Love participating in hackathons and game jams
+- Prefer back-end over front-end
+- Adore game dev
+### 📖Learning:
+- Game dev
+- Back-end development
+- Front-end development
+### 💻Programming languages used:
+- C++
+- C#
+- Kotlin
+- Python
