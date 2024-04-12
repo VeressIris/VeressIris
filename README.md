@@ -12,4 +12,7 @@
 - C++
 - C#
 - Kotlin
+- Javascript
 - Python
+### 🎨Front-end frameworks:
+- Svelte
