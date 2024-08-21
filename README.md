@@ -1,9 +1,9 @@
 ## Hello there, I'm Iris 👋
 ### 👩‍💻About me:
-- I'm a highschool student
+- I'm a last year highschool student
 - Love participating in hackathons and game jams
-- Prefer back-end over front-end
-- Adore game dev
+- Back-end >>> front-end
+- Game dev 💖
 ### 📖Learning:
 - Game dev
 - Back-end development
@@ -14,5 +14,11 @@
 - Kotlin
 - Javascript
 - Python
+- Dart
 ### 🎨Front-end frameworks:
 - Svelte
+- React
+### 💎 Other technologies:
+- Flutter
+- Firebase
+- Supabase
