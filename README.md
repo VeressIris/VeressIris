@@ -5,9 +5,10 @@
 - Back-end >>> front-end
 - Game dev 💖
 ## 📖Learning:
-- Game dev
+- Machine Learning
 - Back-end development
 - Front-end development
+- Game development
 ## 💻Programming languages used:
 [![My Languages](https://skillicons.dev/icons?i=c,cpp,cs,js,kotlin,py,go,dart)](https://skillicons.dev)
 ## 🎨Front-end skills:
