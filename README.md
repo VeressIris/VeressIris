@@ -1,6 +1,6 @@
 # Hello there, I'm Iris 👋
 ## 👩‍💻About me:
-- I'm a last year highschool student 🏫 I'm going to be studying AI at [VU](https://vu.nl/en)
+- I'm a first year AI student at [VU](https://vu.nl/en)
 - Love participating in hackathons and game jams
 - Back-end >>> front-end
 - Game dev 💖
